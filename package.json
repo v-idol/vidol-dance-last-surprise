@@ -1,0 +1,15 @@
+{
+  "name": "@v-idol/vidol-dance-last-surprise",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Last Surprise (✰Taku Takahashi Remix)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "author": "rdmclin2@163.com",
+  "license": "MIT"
+}
